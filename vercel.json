@@ -1,4 +1,4 @@
-No{
+{
   "version": 2,
   "builds": [
     {
@@ -7,6 +7,6 @@ No{
     }
   ],
   "routes": [
-    { "src": "/api/(.*)", "dest": "/api/$1" }
-  ]
+    { "src": "/api/(.*)", "dest": "/api/$1" }
+  ]
 }
